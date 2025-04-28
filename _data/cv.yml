@@ -6,9 +6,9 @@
     - name: Contact
       value: 8916 3878, e0735447@u.nus.edu
     - name: Links
-      value: 
-        - [LinkedIn](https://www.linkedin.com/in/qjbeh/)
-        - [GitHub](https://github.com/01QJ10)
+      value:
+        - "[LinkedIn](https://www.linkedin.com/in/qjbeh/)"
+        - "[GitHub](https://github.com/01QJ10)"
     - name: Languages
       value: English (Fluent), Chinese (Fluent), Malay (Advanced), Japanese (Intermediate)
 
@@ -63,9 +63,10 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/01QJ10/nPipeline">nPipeline</a>
+    - title: "<a href='https://github.com/01QJ10/nPipeline'>nPipeline</a>"
       year: 2024
-      description: An automated pipeline leveraging LLMs and embedding models to match patient nutrients data with genetic research studies.
+      description:
+        - An automated pipeline leveraging LLMs and embedding models to match patient nutrients data with genetic research studies.
 
 - title: Honors and Awards
   type: time_table
@@ -95,4 +96,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Photography, piano, bouldering
+    - "<u>Hobbies:</u> Photography, piano, bouldering"
