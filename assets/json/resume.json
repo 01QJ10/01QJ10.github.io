@@ -1,200 +1,141 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+  "name": "Qian Jun BEH",
+  "contact": {
+    "phone": "8916 3878",
+    "email": "bqjun0000@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/qjbeh/",
+    "github": "https://github.com/01QJ10"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "National University of Singapore",
+      "duration": "Aug 2021 -- Present",
+      "degree": "Bachelor of Science (HONS) in Physics",
+      "second_major": "Data Analytics",
+      "minor": "Mathematics",
+      "program": "Special Programme in Science (SPS)",
+      "graduation": "Expected Jul 2025"
     }
   ],
-  "awards": [
+  "work_experience": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "title": "Research Intern",
+      "organization": "Institute of High Performance Computing (A*STAR IHPC)",
+      "duration": "Mar 2025 -- Present",
+      "projects": [
+        "Reduced-order modelling for fusion turbulence using Physics-informed Neural Network (PINN)"
+      ],
+      "details": [
+        "Utilised JAX to implement various PINNs to solve PDEs, including the Helmholtz equation.",
+        "Improved meta-PINN for the Grad-Shafranov equation using pseudo-inverse method; currently working on solving the corresponding inverse problem."
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "title": "Machine Learning Intern",
+      "organization": "Institute of Mental Health",
+      "duration": "Jul 2024 -- Present",
+      "details": [
+        "Developed generative modelling pipeline using VAE, achieving 20% improvement; presented at SHBC 2024.",
+        "Used Ray on HPC cluster for hyperparameter tuning.",
+        "Created Nutrients Pipeline (https://github.com/01QJ10/nPipeline) with LLMs and embedding models.",
+        "Developed methods for optimal sequencing of medical diagnostics tests."
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "title": "Data Analyst",
+      "organization": "Office of Internal Audit, National University of Singapore",
+      "duration": "Jun 2023 -- Nov 2023",
+      "details": [
+        "Engineered features to detect fraud and anomalies.",
+        "Used chi-square tests, CLT-based analysis, and Benford's law.",
+        "Applied K-Means, Isolation Forest, Adversarial Autoencoder for anomaly detection.",
+        "Conducted PDF and text extraction using NLP."
+      ]
+    },
+    {
+      "title": "Student Research Assistant",
+      "organization": "Yong Siew Toh (YST) Conservatory of Music",
+      "duration": "Jul 2023 -- Dec 2023",
+      "details": [
+        "Analyzed physiological data: HRV, EDA.",
+        "Applied time series analysis (exponential smoothing, moving averages, cubic splines).",
+        "Used statistical models like ANOVA and Mixed Effect Models."
+      ]
+    },
+    {
+      "title": "Student Helper",
+      "organization": "Introduction to Data Science",
+      "duration": "Not specified"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "title": "CS3244 Machine Learning Project: UCI Human Activity Recognition (HAR)",
+      "duration": "Oct 2024 -- Dec 2024",
+      "details": [
+        "Experimented with Random Forest, XGBoost, kNN, LSTM; best F1 score > 0.92.",
+        "Parallelised hyperparameter tuning using Ray.",
+        "Applied LIME for model interpretability.",
+        "Used Git for collaboration.",
+        "Repository: https://github.com/rachelloo23/CS3244"
+      ]
+    },
+    {
+      "title": "SNP-s Analysis Variational Autoencoder",
+      "duration": "Jan 2023 -- Apr 2023",
+      "details": [
+        "Built ML pipeline to predict chemotherapy-induced toxicity using VAE, Random Forest, Gradient Boosting, ANN, Logistic Regression.",
+        "Preprocessed massive SNPs dataset (over 700,000 features)."
+      ]
     }
-  ]
+  ],
+  "co_curricular_activities": [
+    {
+      "title": "Vice Head of Publicity",
+      "organization": "NUS Physics Society",
+      "duration": "Jul 2023 -- Apr 2024"
+    },
+    {
+      "title": "Head of Publicity",
+      "organization": "NUS Physics Society",
+      "duration": "Jul 2022 -- Apr 2023"
+    },
+    {
+      "title": "Vice Head",
+      "organization": "KEVision (King Edward VII Hall Photography Club)",
+      "duration": "Jul 2022 -- Apr 2023"
+    },
+    {
+      "title": "Head of Public Relations",
+      "organization": "The Dream Composition (TDC), NUS",
+      "duration": "Jul 2022 -- Apr 2023"
+    }
+  ],
+  "additional_information_and_skills": {
+    "programming_languages": ["Java", "Python", "Matlab", "R", "HTML", "CSS", "JavaScript", "SQL"],
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Statistical Analysis",
+      "Data Visualisation",
+      "Optimisation",
+      "Git",
+      "LaTeX"
+    ],
+    "softwares": [
+      "Microsoft Office Suite",
+      "Adobe Lightroom/Photoshop"
+    ],
+    "languages": [
+      "Fluent in English",
+      "Fluent in Chinese",
+      "Advanced proficiency in Malay",
+      "Intermediate proficiency in Japanese"
+    ],
+    "interests": [
+      "Photography",
+      "Piano",
+      "Bouldering"
+    ]
+  }
 }
