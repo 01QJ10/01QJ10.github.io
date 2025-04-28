@@ -29,7 +29,7 @@ Hi, I’m Qian Jun (QJ)! 👋
 
 I’m a final-year Physics and Data Science undergraduate at the [National University of Singapore (NUS)](https://www.nus.edu.sg/). I love machine learning, deep learning, quantum computation, applied mathematics, and sciences in general. My current interests lie in multi-modal AI, computer vision, and world model.
 
-Currently, I’m working on reduced-order modelling for fusion turbulence at A*STAR’s Institute of High Performance Computing (IHPC), and developing generative models for medical diagnostics at the Institute of Mental Health (IMH).
+Currently, I’m working on reduced-order modelling for fusion turbulence at [A*STAR’s Institute of High Performance Computing (IHPC)](https://www.a-star.edu.sg/ihpc), and developing generative models for medical diagnostics at the [Institute of Mental Health (IMH)](https://www.imh.com.sg/Pages/default.aspx).
 
 Outside of tech, you’ll find me bouldering, doing photography, or playing the piano. 🎶 🧗‍♂️ 📸
 
