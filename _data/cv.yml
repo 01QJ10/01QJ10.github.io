@@ -2,96 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Qian Jun BEH
+    - name: Contact
+      value: 8916 3878, e0735447@u.nus.edu
+    - name: Links
+      value: 
+        - [LinkedIn](https://www.linkedin.com/in/qjbeh/)
+        - [GitHub](https://github.com/01QJ10)
     - name: Languages
-      value: English, German
+      value: English (Fluent), Chinese (Fluent), Malay (Advanced), Japanese (Intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science (HONS) in Physics
+      institution: National University of Singapore
+      year: Aug 2021 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Second Major in Data Analytics, Minor in Mathematics.
+        - Special Programme in Science (SPS).
+        - Expected graduation: Jul 2025.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Institute of High Performance Computing (A*STAR IHPC)
+      year: Mar 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Project: Reduced-order modelling for fusion turbulence using Physics-informed Neural Network (PINN).
+        - Implemented PINNs with JAX to solve PDEs (e.g., Helmholtz equation).
+        - Improved meta-PINN for Grad-Shafranov equation using pseudo-inverse method and working on inverse problems.
+    - title: Machine Learning Intern
+      institution: Institute of Mental Health
+      year: Jul 2024 – Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed VAE pipeline achieving 20% improvement in predictive performance (presented at SHBC 2024).
+        - Built Nutrients Pipeline integrating LLMs for genetic database matching.
+        - Applied Ray for scalable hyperparameter tuning on HPC clusters.
+        - Designed sequential testing algorithms for diagnostics.
+    - title: Data Analyst
+      institution: Office of Internal Audit, National University of Singapore
+      year: Jun 2023 – Nov 2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Developed fraud detection features via statistical techniques and machine learning.
+        - Applied K-Means, Isolation Forest, and Adversarial Autoencoder models.
+        - Conducted text extraction from documents using NLP techniques.
+    - title: Student Research Assistant
+      institution: Yong Siew Toh (YST) Conservatory of Music
+      year: Jul 2023 – Dec 2023
+      description:
+        - Analyzed physiological data (HRV, EDA) using time series methods.
+        - Applied ANOVA and Mixed Effect Models.
+    - title: Student Helper
+      institution: Introduction to Data Science
+      year: N/A
+      description:
+        - Assisted in facilitating tutorial sessions and supporting course delivery.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/01QJ10/nPipeline">nPipeline</a>
+      year: 2024
+      description: An automated pipeline leveraging LLMs and embedding models to match patient nutrients data with genetic research studies.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Presentation at Singapore Health and Biomedical Congress (SHBC 2024)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning and AI
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Physics-informed Neural Networks (PINNs)
+        - Generative models (e.g., VAE)
+        - Anomaly detection
+    - title: Data Science and Statistical Analysis
       items:
-        - Description 1.
-        - Description 2.
+        - Time series analysis
+        - Fraud detection techniques
+        - Optimisation and interpretability
+    - title: Physics Research
+      items:
+        - Fusion turbulence modeling
+        - Applied computational physics
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, piano, bouldering
