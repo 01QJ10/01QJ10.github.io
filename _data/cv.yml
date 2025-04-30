@@ -7,8 +7,10 @@
       value: e0735447 [at] u [dot] nus [dot] edu
     - name: Links
       value:
-        - [LinkedIn](https://www.linkedin.com/in/qjbeh/)
-        - [GitHub](https://github.com/01QJ10)
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/qjbeh/
+        - name: GitHub
+          url: https://github.com/01QJ10
     - name: Languages
       value: English (Fluent), Chinese (Fluent), Malay (Advanced), Japanese (Intermediate), Spanish (Beginner)
 
@@ -34,7 +36,7 @@
         - Implemented PINNs with JAX to solve PDEs (e.g., Helmholtz equation).
         - Improved meta-PINN for Grad-Shafranov equation using pseudo-inverse method and working on inverse problems.
     - title: Machine Learning Intern
-      institution: "<a href='https://www.imh.com.sg/'>Institue of Mental Health (IMH)</a>" 
+      institution: "<a href='https://www.imh.com.sg/'>Institute of Mental Health (IMH)</a>"
       year: Jul 2024 – Present
       description:
         - Developed VAE pipeline achieving 20% improvement in predictive performance (presented at SHBC 2024).
@@ -73,7 +75,7 @@
   contents:
     - year: 2024
       items:
-        - Presentation at  "<a href='https://shbc.com.sg/'>Singapore Health and Biomedical Congress (SHBC 2024)</a>".
+        - "<a href='https://shbc.com.sg/'>Presentation at Singapore Health and Biomedical Congress (SHBC 2024)</a>"
 
 - title: Academic Interests
   type: nested_list
