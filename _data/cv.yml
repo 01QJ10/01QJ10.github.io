@@ -4,13 +4,13 @@
     - name: Full Name
       value: Qian Jun BEH
     - name: Contact
-      value: 8916 3878, e0735447@u.nus.edu
+      value: e0735447 [at] u [dot] nus [dot] edu
     - name: Links
       value:
-        - "[LinkedIn](https://www.linkedin.com/in/qjbeh/)"
-        - "[GitHub](https://github.com/01QJ10)"
+        - [LinkedIn](https://www.linkedin.com/in/qjbeh/)
+        - [GitHub](https://github.com/01QJ10)
     - name: Languages
-      value: English (Fluent), Chinese (Fluent), Malay (Advanced), Japanese (Intermediate)
+      value: English (Fluent), Chinese (Fluent), Malay (Advanced), Japanese (Intermediate), Spanish (Beginner)
 
 - title: Education
   type: time_table
@@ -20,21 +20,21 @@
       year: Aug 2021 – Present
       description:
         - Second Major in Data Analytics, Minor in Mathematics.
-        - Special Programme in Science (SPS).
+        - "<a href='https://www.science.nus.edu.sg/undergraduates/special-programmes/special-programme-in-science-sps/'>Special Programme in Science (SPS).</a>"
         - Expected graduation: Jul 2025.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
-      institution: Institute of High Performance Computing (A*STAR IHPC)
+      institution: "<a href='https://www.a-star.edu.sg/ihpc'>Institute of High Performance Computing (A*STAR IHPC)</a>"
       year: Mar 2025 – Present
       description:
         - Project: Reduced-order modelling for fusion turbulence using Physics-informed Neural Network (PINN).
         - Implemented PINNs with JAX to solve PDEs (e.g., Helmholtz equation).
         - Improved meta-PINN for Grad-Shafranov equation using pseudo-inverse method and working on inverse problems.
     - title: Machine Learning Intern
-      institution: Institute of Mental Health
+      institution: "<a href='https://www.imh.com.sg/'>Institue of Mental Health (IMH)</a>" 
       year: Jul 2024 – Present
       description:
         - Developed VAE pipeline achieving 20% improvement in predictive performance (presented at SHBC 2024).
@@ -73,7 +73,7 @@
   contents:
     - year: 2024
       items:
-        - Presentation at Singapore Health and Biomedical Congress (SHBC 2024)
+        - Presentation at  "<a href='https://shbc.com.sg/'>Singapore Health and Biomedical Congress (SHBC 2024)</a>".
 
 - title: Academic Interests
   type: nested_list
