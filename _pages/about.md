@@ -27,9 +27,9 @@ latest_posts:
 
 Hi, I’m Qian Jun (QJ)! 👋
 
-I’m a final-year Physics and Data Science undergraduate at the [National University of Singapore (NUS)](https://www.nus.edu.sg/). I love machine learning, deep learning, quantum computation, applied mathematics, and sciences in general. My current interests lie in multi-modal AI, computer vision, and world model.
+I’m a final-year Physics and Data Science undergraduate at the [National University of Singapore (NUS)](https://www.nus.edu.sg/). My academic journey spans machine learning, quantum computing, statistics, and the sciences in general. I also enjoy reading biology and nutrition papers — mostly to convince my friends that my diet plan is, in fact, safe and healthy (👍). While I started out in physics, my current interests lean toward multi-modal AI, computer vision, and world models — rather than pure physics ([or maybe not?](https://www.nobelprize.org/prizes/physics/2024/press-release/)).
 
-Currently, I’m working on reduced-order modelling for fusion turbulence at [A*STAR’s Institute of High Performance Computing (IHPC)](https://www.a-star.edu.sg/ihpc), and developing generative models for medical diagnostics at the [Institute of Mental Health (IMH)](https://www.imh.com.sg/Pages/default.aspx).
+Currently, I’m working on the inverse problem of solving the Grad-Shafranov Equation using Physics-informed Neural Network (PINN) under [A*STAR’s Institute of High Performance Computing (IHPC)](https://www.a-star.edu.sg/ihpc), and developing generative models for medical diagnostics at the [Institute of Mental Health (IMH)](https://www.imh.com.sg/Pages/default.aspx).
 
 Outside of tech, you’ll find me bouldering, doing photography, or playing the piano. 🎶 🧗‍♂️ 📸
 
