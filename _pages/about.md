@@ -2,41 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Engineer at <a href='https://www.a-star.edu.sg/simtech'>A*STAR SIMTech</a> · Time-series foundation models and generative modelling
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>Singapore</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Hi, I’m Qian Jun (QJ)! 👋
+Hi, I’m Qian Jun (QJ). I am a Research Engineer at [A*STAR's Singapore Institute of Manufacturing Technology (SIMTech)](https://www.a-star.edu.sg/simtech), where I work on machine-learning methods for industrial time-series data. My current work includes adapting foundation models and developing generative methods for predictive-maintenance research. A public-facing part of this work contributed to the 2026 Conference on Learning Factories.
 
-I’m a final-year Physics and Data Science undergraduate at the [National University of Singapore (NUS)](https://www.nus.edu.sg/). My academic journey spans machine learning, quantum computing, statistics, and the sciences in general. I also enjoy reading biology and nutrition papers — mostly to convince my friends that my diet plan is, in fact, safe and healthy (👍). While I started out in physics, my current interests lean toward multi-modal AI, computer vision, and world models — rather than pure physics ([or maybe not?](https://www.nobelprize.org/prizes/physics/2024/press-release/)).
+My broader research interests sit at the intersection of **physics-informed learning, generative machine learning, and scientific computing**. I enjoy building models that respect the structure of a problem, then testing them in reproducible computational pipelines.
 
-Currently, I’m working on the inverse problem of solving the Grad-Shafranov Equation using Physics-informed Neural Network (PINN) under [A*STAR’s Institute of High Performance Computing (IHPC)](https://www.a-star.edu.sg/ihpc), and developing generative models for medical diagnostics at the [Institute of Mental Health (IMH)](https://www.imh.com.sg/Pages/default.aspx).
+## Selected work
 
-Outside of tech, you’ll find me bouldering, doing photography, or playing the piano. 🎶 🧗‍♂️ 📸
+- **Physics-informed learning:** At [A*STAR IHPC](https://www.a-star.edu.sg/ihpc), I implemented JAX-based Meta-PINNs for forward prediction and inverse parameter inference in the Grad–Shafranov equation. [Read the project summary]({% link _projects/meta-pinn-grad-shafranov.md %}).
+- **Generative ML for healthcare:** At the [Institute of Mental Health](https://www.imh.com.sg/), I developed a variational-autoencoder pipeline for medical prediction and built supporting tools for scalable experimentation and research matching. [Read the project summary]({% link _projects/imh-medical-ml.md %}).
+- **Quantum machine learning:** I co-authored [“Autoencoding-Assisted Quantum Cloning Machine”](https://doi.org/10.3390/e28050563), published in *Entropy* in 2026. [Read the project summary]({% link _projects/autoencoding-assisted-quantum-cloning.md %}).
 
-Always happy to collaborate or chat — feel free to reach out!
+I graduated from the [National University of Singapore](https://www.nus.edu.sg/) with a BSc (Honours, Distinction) in Physics and a second major in Data Analytics. I am interested in research-engineering opportunities and academic collaborations involving machine learning for scientific, physical, or healthcare problems.
 
-[//]: <> Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-[//]: <> Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-[//]: <> Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I enjoy bouldering, photography, and playing the piano. If you would like to discuss a research problem or potential collaboration, email is the best way to reach me.

@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true
@@ -17,6 +17,8 @@ pagination:
 ---
 
 <div class="post">
+
+<p>I use research notes to explain methods, experimental choices, and lessons from physics-informed learning and applied machine learning. This section will become public after the first original post is ready.</p>
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
