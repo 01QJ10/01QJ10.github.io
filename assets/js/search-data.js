@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Selected research in physics-informed learning, medical machine learning, and quantum information.",
+          description: "Selected research across scientific machine learning, medical AI, quantum information, and industrial time-series modelling.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -56,6 +56,11 @@ ninja.data = [{
           description: "JAX-based forward prediction and inverse parameter inference for the Grad–Shafranov equation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/meta-pinn-grad-shafranov/";
+            },},{id: "projects-industrial-time-series-learning-for-predictive-maintenance",
+          title: 'Industrial Time-Series Learning for Predictive Maintenance',
+          description: "Foundation-model adaptation and few-shot learning for industrial fault detection and tool-wear prediction at A*STAR SIMTech.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/simtech-industrial-time-series/";
             },},{
         id: 'social-email',
         title: 'email',
