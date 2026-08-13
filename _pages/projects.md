@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected research in physics-informed learning, medical machine learning, and quantum information.
+description: Selected research across scientific machine learning, medical AI, quantum information, and industrial time-series modelling.
 nav: true
 nav_order: 3
 display_categories:
-horizontal: false
+horizontal: true
 ---
+
+My work connects machine learning with physical, medical, and industrial problems. These selected projects emphasise the question, my contribution, the methods used, and the evidence currently available. Some code and data cannot yet be shared because the associated research is unpublished or partner-sensitive.
 
 <!-- pages/projects.md -->
 <div class="projects">
